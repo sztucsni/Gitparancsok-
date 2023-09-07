@@ -1,1 +1,2 @@
-
+1. git commit --help 
+Bármely git parancsról kaphatunk segítséget .
